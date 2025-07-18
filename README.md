@@ -3,7 +3,7 @@
 This repository contains the C++ projects developed as part of the CodeSoft internship program. Each task is designed to strengthen basic programming and logical problem-solving skills.
 
 
-✅ Completed Tasks
+
 ## 🧩 Task 1: Number Guessing Game 🎯
 
 The **Number Guessing Game** is a console-based C++ application where the computer randomly selects a number between 1 and 100, and the user tries to guess it. After each guess, the program provides feedback — whether the guess was too high or too low — until the correct number is guessed
